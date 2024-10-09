@@ -1,0 +1,12 @@
+{
+  "name": "checkpoint-typescript",
+  "version": "1.0.0",
+  "main": "./js/Vehicule.js",
+  "scripts": {
+    "start": "tsc && node ./js/Vehicule.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Newton",
+  "license": "ISC",
+  "description": ""
+}
